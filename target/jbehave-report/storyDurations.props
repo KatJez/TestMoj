@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Wed Sep 06 14:11:57 CEST 2017
+stories/LoginSteps.story=16000
+threads=1
+total=16000
+threadAverage=16000

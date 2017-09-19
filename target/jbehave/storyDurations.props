@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Wed Sep 13 14:15:26 CEST 2017
+threads=1
+total=58000
+test/contractor/ContractorSteps.story=58000
+threadAverage=58000
